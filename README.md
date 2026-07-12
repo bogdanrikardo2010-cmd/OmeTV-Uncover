@@ -38,6 +38,10 @@ Visit **https://ipgeolocation.io/** and create a free account.
 
 After signing in, open your dashboard and copy your API key.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87fa9f6e-3ac6-4721-b5bb-2ccbd2240d0a" alt="IPGeolocation API Key" width="900">
+</p>
+
 ### 3. Configure the script
 
 Replace:
