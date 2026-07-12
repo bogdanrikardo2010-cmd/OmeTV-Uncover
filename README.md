@@ -42,13 +42,13 @@ After signing in, open your dashboard and copy your API key.
 
 Replace:
 
-```javascript
+```text
 let apiKey = "";
 ```
 
 with:
 
-```javascript
+```text
 let apiKey = "YOUR_API_KEY";
 ```
 
