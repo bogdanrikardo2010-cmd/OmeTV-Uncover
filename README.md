@@ -1,4 +1,4 @@
-# OmeTV-Uncover
+# OmeTV Uncover
 OmeTV Uncover is a JavaScript userscript that detects the remote peer's public IP address via WebRTC and enriches it with geolocation data using the IPGeolocation API. It also captures a snapshot of the remote video stream and presents all information in a modern draggable UI.
 
 > **Disclaimer**
